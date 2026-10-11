@@ -1,5 +1,3 @@
-# Hi, I'm Muskan! 👋
-
 <h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
 <h3 align="center">A passionate Data Science / Data Engineering</h3>
 
