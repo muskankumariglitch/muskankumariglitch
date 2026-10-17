@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science / Data Engineering**
 
-- 📫 How to reach me **muskanlkr30@gmail.com**
+- 📫 How to reach me **muskankumarilkr30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
